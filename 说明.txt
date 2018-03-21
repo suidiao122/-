@@ -1,0 +1,2 @@
+一个使用存储过程真分页代码，使用的boostrap table
+环境.net 4.5 sql2012、vs2013
